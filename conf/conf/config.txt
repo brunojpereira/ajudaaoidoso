@@ -1,0 +1,4 @@
+servidor localhost
+usuario root
+senha 
+banco aj_idoso
